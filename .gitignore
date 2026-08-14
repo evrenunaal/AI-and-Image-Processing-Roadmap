@@ -1,0 +1,9 @@
+# Sanal ortam dosyaları
+.venv/
+venv/
+
+# PyCharm ayar dosyaları
+.idea/
+
+# Python önbellek dosyaları
+__pycache__/
