@@ -8,5 +8,6 @@ Bu depo, Python ile veri bilimi, yapay zeka ve görüntü işleme alanlarındaki
 ##  Kullanılan Teknolojiler
 * Python 3
 * NumPy
+* Pandas
 
 *(Not: Bu depo, öğrenme sürecim devam ettikçe Pandas, OpenCV gibi yeni modüllerle güncellenecektir.)*
