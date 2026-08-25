@@ -1,0 +1,2685 @@
+{
+    "AAA": {
+        "city_name": "Anaa",
+        "continent": "OC",
+        "country": "French Polynesia",
+        "country_code": "PF",
+        "display_name": "Anaa (AAA), French Polynesia",
+        "elevation": 23,
+        "iata": "AAA",
+        "icao": "NTGA",
+        "latitude": "-17.355648",
+        "longitude": "-145.50913",
+        "name": "Anaa Airport",
+        "routes": [
+            {
+                "carriers": [
+                    {
+                        "iata": "VT",
+                        "name": "Air Tahiti"
+                    }
+                ],
+                "iata": "FAC",
+                "km": 76,
+                "min": 20
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "VT",
+                        "name": "Air Tahiti"
+                    }
+                ],
+                "iata": "MKP",
+                "km": 215,
+                "min": 40
+            }
+        ],
+        "timezone": "Pacific/Tahiti"
+    },
+    "AAD": {
+        "city_name": "Adado",
+        "continent": "AF",
+        "country": "Somalia",
+        "country_code": "SO",
+        "display_name": "Adado (AAD), Somalia",
+        "elevation": 1005,
+        "iata": "AAD",
+        "icao": null,
+        "latitude": "6.095833",
+        "longitude": "46.6375",
+        "name": "Adado Airport",
+        "routes": [
+            {
+                "carriers": [],
+                "iata": "MGQ",
+                "km": 474,
+                "min": 80
+            }
+        ],
+        "timezone": "Africa/Mogadishu"
+    },
+    "AAE": {
+        "city_name": "Annaba",
+        "continent": "AF",
+        "country": "Algeria",
+        "country_code": "DZ",
+        "display_name": "Annaba (AAE), Algeria",
+        "elevation": 16,
+        "iata": "AAE",
+        "icao": "DABB",
+        "latitude": "36.821392",
+        "longitude": "7.811857",
+        "name": "Annaba",
+        "routes": [
+            {
+                "carriers": [
+                    {
+                        "iata": "AH",
+                        "name": "Air Algerie"
+                    }
+                ],
+                "iata": "ALG",
+                "km": 411,
+                "min": 75
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "AH",
+                        "name": "Air Algerie"
+                    },
+                    {
+                        "iata": "TO",
+                        "name": "Transavia France"
+                    }
+                ],
+                "iata": "MRS",
+                "km": 767,
+                "min": 90
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "AH",
+                        "name": "Air Algerie"
+                    },
+                    {
+                        "iata": "5O",
+                        "name": "ASL Airlines France"
+                    }
+                ],
+                "iata": "CDG",
+                "km": 1418,
+                "min": 140
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "AH",
+                        "name": "Air Algerie"
+                    }
+                ],
+                "iata": "LYS",
+                "km": 1014,
+                "min": 105
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "AH",
+                        "name": "Air Algerie"
+                    }
+                ],
+                "iata": "ORN",
+                "km": 768,
+                "min": 110
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "AH",
+                        "name": "Air Algerie"
+                    }
+                ],
+                "iata": "ORY",
+                "km": 1395,
+                "min": 140
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "AH",
+                        "name": "Air Algerie"
+                    }
+                ],
+                "iata": "IST",
+                "km": 1872,
+                "min": 165
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "AH",
+                        "name": "Air Algerie"
+                    }
+                ],
+                "iata": "JED",
+                "km": 3455,
+                "min": 295
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "AH",
+                        "name": "Air Algerie"
+                    }
+                ],
+                "iata": "MED",
+                "km": 3324,
+                "min": 270
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "AH",
+                        "name": "Air Algerie"
+                    }
+                ],
+                "iata": "TMR",
+                "km": 1569,
+                "min": 145
+            }
+        ],
+        "timezone": "Africa/Algiers"
+    },
+    "AAK": {
+        "city_name": "Aranuka",
+        "continent": "OC",
+        "country": "Kiribati",
+        "country_code": "KI",
+        "display_name": "Aranuka (AAK), Kiribati",
+        "elevation": 0,
+        "iata": "AAK",
+        "icao": "NGUK",
+        "latitude": "0.166667",
+        "longitude": "173.583333",
+        "name": "Aranuka Airport",
+        "routes": [
+            {
+                "carriers": [
+                    {
+                        "iata": "IK",
+                        "name": "Air Kiribati"
+                    }
+                ],
+                "iata": "TRW",
+                "km": 142,
+                "min": 35
+            }
+        ],
+        "timezone": "Pacific/Tarawa"
+    },
+    "AAL": {
+        "city_name": "Aalborg",
+        "continent": "EU",
+        "country": "Denmark",
+        "country_code": "DK",
+        "display_name": "Aalborg (AAL), Denmark",
+        "elevation": 10,
+        "iata": "AAL",
+        "icao": "EKYT",
+        "latitude": "57.086551",
+        "longitude": "9.872241",
+        "name": "Aalborg",
+        "routes": [
+            {
+                "carriers": [
+                    {
+                        "iata": "D8",
+                        "name": "Norwegian Air Sweden"
+                    },
+                    {
+                        "iata": "SK",
+                        "name": "Scandinavian Airlines"
+                    }
+                ],
+                "iata": "CPH",
+                "km": 236,
+                "min": 45
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "KL",
+                        "name": "KLM"
+                    }
+                ],
+                "iata": "AMS",
+                "km": 625,
+                "min": 80
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "SK",
+                        "name": "Scandinavian Airlines"
+                    }
+                ],
+                "iata": "OSL",
+                "km": 353,
+                "min": 60
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "D8",
+                        "name": "Norwegian Air Sweden"
+                    }
+                ],
+                "iata": "AGP",
+                "km": 2507,
+                "min": 218
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "PC",
+                        "name": "Pegasus"
+                    }
+                ],
+                "iata": "AYT",
+                "km": 2727,
+                "min": 230
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "GL",
+                        "name": "Air Greenland"
+                    }
+                ],
+                "iata": "GOH",
+                "km": 3319,
+                "min": 290
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "DX",
+                        "name": "DAT"
+                    }
+                ],
+                "iata": "RNN",
+                "km": 378,
+                "min": 70
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "D8",
+                        "name": "Norwegian Air Sweden"
+                    }
+                ],
+                "iata": "LGW",
+                "km": 930,
+                "min": 110
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "D8",
+                        "name": "Norwegian Air Sweden"
+                    }
+                ],
+                "iata": "ALC",
+                "km": 2226,
+                "min": 195
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "D8",
+                        "name": "Norwegian Air Sweden"
+                    }
+                ],
+                "iata": "TFS",
+                "km": 3836,
+                "min": 325
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "SK",
+                        "name": "Scandinavian Airlines"
+                    }
+                ],
+                "iata": "SCR",
+                "km": 484,
+                "min": 85
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "D8",
+                        "name": "Norwegian Air Sweden"
+                    }
+                ],
+                "iata": "PMI",
+                "km": 2018,
+                "min": 185
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "D8",
+                        "name": "Norwegian Air Sweden"
+                    }
+                ],
+                "iata": "NCE",
+                "km": 1505,
+                "min": 160
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "V7",
+                        "name": "Volotea"
+                    }
+                ],
+                "iata": "NAP",
+                "km": 1829,
+                "min": 170
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "D8",
+                        "name": "Norwegian Air Sweden"
+                    }
+                ],
+                "iata": "FNC",
+                "km": 3386,
+                "min": 290
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "RC",
+                        "name": "Atlantic Airways"
+                    }
+                ],
+                "iata": "FAE",
+                "km": 1111,
+                "min": 115
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "SM",
+                        "name": "Air Cairo"
+                    }
+                ],
+                "iata": "HRG",
+                "km": 3821,
+                "min": 180
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "V7",
+                        "name": "Volotea"
+                    }
+                ],
+                "iata": "VRN",
+                "km": 1301,
+                "min": 140
+            }
+        ],
+        "timezone": "Europe/Copenhagen"
+    },
+    "AAN": {
+        "city_name": "Al Ain",
+        "continent": "AS",
+        "country": "United Arab Emirates",
+        "country_code": "AE",
+        "display_name": "Al Ain (AAN), United Arab Emirates",
+        "elevation": 869,
+        "iata": "AAN",
+        "icao": "OMAL",
+        "latitude": "24.260231",
+        "longitude": "55.616626",
+        "name": "Al Ain International Airport",
+        "routes": [
+            {
+                "carriers": [
+                    {
+                        "iata": "IX",
+                        "name": "Air India Express"
+                    }
+                ],
+                "iata": "CCJ",
+                "km": 2594,
+                "min": 235
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "NP",
+                        "name": "Nile Air"
+                    }
+                ],
+                "iata": "CAI",
+                "km": 2479,
+                "min": 250
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "PK",
+                        "name": "Pakistan International Airlines"
+                    }
+                ],
+                "iata": "ISB",
+                "km": 1964,
+                "min": 190
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "J9",
+                        "name": "Jazeera Airways"
+                    }
+                ],
+                "iata": "KWI",
+                "km": 939,
+                "min": 105
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "PK",
+                        "name": "Pakistan International Airlines"
+                    }
+                ],
+                "iata": "PEW",
+                "km": 1882,
+                "min": 170
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "EY",
+                        "name": "Etihad Airways"
+                    }
+                ],
+                "iata": "DWC",
+                "km": 83,
+                "min": 90
+            }
+        ],
+        "timezone": "Asia/Dubai"
+    },
+    "AAP": {
+        "city_name": "Samarinda",
+        "continent": "AS",
+        "country": "Indonesia",
+        "country_code": "ID",
+        "display_name": "Samarinda (AAP), Indonesia",
+        "elevation": 54,
+        "iata": "AAP",
+        "icao": null,
+        "latitude": "-0.372898",
+        "longitude": "117.250905",
+        "name": "Aji Pangeran Tumenggung Airport",
+        "routes": [
+            {
+                "carriers": [
+                    {
+                        "iata": "GA",
+                        "name": "Garuda Indonesia"
+                    },
+                    {
+                        "iata": "ID",
+                        "name": "Batik Air"
+                    },
+                    {
+                        "iata": "QG",
+                        "name": "Citilink"
+                    }
+                ],
+                "iata": "CGK",
+                "km": 1338,
+                "min": 130
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "QG",
+                        "name": "Citilink"
+                    }
+                ],
+                "iata": "SUB",
+                "km": 919,
+                "min": 100
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "IW",
+                        "name": "Wings Air"
+                    }
+                ],
+                "iata": "BEJ",
+                "km": 280,
+                "min": 60
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "IW",
+                        "name": "Wings Air"
+                    }
+                ],
+                "iata": "BDJ",
+                "km": 438,
+                "min": 70
+            },
+            {
+                "carriers": [],
+                "iata": "YIA",
+                "km": 1153,
+                "min": 115
+            }
+        ],
+        "timezone": "Asia/Makassar"
+    },
+    "AAQ": {
+        "city_name": "Anapa",
+        "continent": "EU",
+        "country": "Russia",
+        "country_code": "RU",
+        "display_name": "Anapa (AAQ), Russia",
+        "elevation": 141,
+        "iata": "AAQ",
+        "icao": "URKA",
+        "latitude": "45.001659",
+        "longitude": "37.346599",
+        "name": "Vityazevo",
+        "routes": [
+            {
+                "carriers": [
+                    {
+                        "iata": "5N",
+                        "name": "Smartavia"
+                    }
+                ],
+                "iata": "LED",
+                "km": 1713,
+                "min": 170
+            }
+        ],
+        "timezone": "Europe/Moscow"
+    },
+    "AAR": {
+        "city_name": "Aarhus",
+        "continent": "EU",
+        "country": "Denmark",
+        "country_code": "DK",
+        "display_name": "Aarhus (AAR), Denmark",
+        "elevation": 82,
+        "iata": "AAR",
+        "icao": "EKAH",
+        "latitude": "56.30823",
+        "longitude": "10.626351",
+        "name": "Aarhus",
+        "routes": [
+            {
+                "carriers": [
+                    {
+                        "iata": "SK",
+                        "name": "Scandinavian Airlines"
+                    }
+                ],
+                "iata": "CPH",
+                "km": 147,
+                "min": 40
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "FR",
+                        "name": "Ryanair"
+                    }
+                ],
+                "iata": "STN",
+                "km": 836,
+                "min": 105
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "FR",
+                        "name": "Ryanair"
+                    },
+                    {
+                        "iata": "D8",
+                        "name": "Norwegian Air Sweden"
+                    }
+                ],
+                "iata": "AGP",
+                "km": 2459,
+                "min": 225
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "FR",
+                        "name": "Ryanair"
+                    }
+                ],
+                "iata": "GDN",
+                "km": 541,
+                "min": 70
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "FR",
+                        "name": "Ryanair"
+                    }
+                ],
+                "iata": "RIX",
+                "km": 821,
+                "min": 90
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "FR",
+                        "name": "Ryanair"
+                    },
+                    {
+                        "iata": "D8",
+                        "name": "Norwegian Air Sweden"
+                    }
+                ],
+                "iata": "PMI",
+                "km": 1951,
+                "min": 185
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "FR",
+                        "name": "Ryanair"
+                    }
+                ],
+                "iata": "ZAD",
+                "km": 1398,
+                "min": 140
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "D8",
+                        "name": "Norwegian Air Sweden"
+                    }
+                ],
+                "iata": "ALC",
+                "km": 2168,
+                "min": 200
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "PC",
+                        "name": "Pegasus"
+                    }
+                ],
+                "iata": "AYT",
+                "km": 2632,
+                "min": 230
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "FR",
+                        "name": "Ryanair"
+                    }
+                ],
+                "iata": "CFU",
+                "km": 1978,
+                "min": 185
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "SK",
+                        "name": "Scandinavian Airlines"
+                    }
+                ],
+                "iata": "OSL",
+                "km": 433,
+                "min": 60
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "SK",
+                        "name": "Scandinavian Airlines"
+                    }
+                ],
+                "iata": "SCR",
+                "km": 555,
+                "min": 100
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "FR",
+                        "name": "Ryanair"
+                    }
+                ],
+                "iata": "KTW",
+                "km": 857,
+                "min": 100
+            }
+        ],
+        "timezone": "Europe/Copenhagen"
+    },
+    "AAT": {
+        "city_name": "Altay",
+        "continent": "AS",
+        "country": "China",
+        "country_code": "CN",
+        "display_name": "Altay (AAT), China",
+        "elevation": 1750,
+        "iata": "AAT",
+        "icao": "ZWAT",
+        "latitude": "47.750361",
+        "longitude": "88.084444",
+        "name": "Altay Airport",
+        "routes": [
+            {
+                "carriers": [
+                    {
+                        "iata": "G5",
+                        "name": "Gestair"
+                    },
+                    {
+                        "iata": "EU",
+                        "name": "Chengdu Airlines"
+                    }
+                ],
+                "iata": "BPL",
+                "km": 546,
+                "min": 73
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "G5",
+                        "name": "Gestair"
+                    },
+                    {
+                        "iata": "EU",
+                        "name": "Chengdu Airlines"
+                    }
+                ],
+                "iata": "YIN",
+                "km": 672,
+                "min": 80
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "MU",
+                        "name": "China Eastern Airlines"
+                    }
+                ],
+                "iata": "XIY",
+                "km": 2268,
+                "min": 210
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "G5",
+                        "name": "Gestair"
+                    },
+                    {
+                        "iata": "EU",
+                        "name": "Chengdu Airlines"
+                    }
+                ],
+                "iata": "HMI",
+                "km": 680,
+                "min": 80
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "G5",
+                        "name": "Gestair"
+                    },
+                    {
+                        "iata": "EU",
+                        "name": "Chengdu Airlines"
+                    }
+                ],
+                "iata": "SHF",
+                "km": 424,
+                "min": 70
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "CZ",
+                        "name": "China Southern Airlines"
+                    }
+                ],
+                "iata": "URC",
+                "km": 430,
+                "min": 80
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "EU",
+                        "name": "Chengdu Airlines"
+                    }
+                ],
+                "iata": "TLQ",
+                "km": 531,
+                "min": 75
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "3U",
+                        "name": "Sichuan Airlines"
+                    },
+                    {
+                        "iata": "MU",
+                        "name": "China Eastern Airlines"
+                    }
+                ],
+                "iata": "TFU",
+                "km": 2387,
+                "min": 230
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "CA",
+                        "name": "Air China"
+                    }
+                ],
+                "iata": "PEK",
+                "km": 2426,
+                "min": 235
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "EU",
+                        "name": "Chengdu Airlines"
+                    }
+                ],
+                "iata": "AKU",
+                "km": 949,
+                "min": 110
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "EU",
+                        "name": "Chengdu Airlines"
+                    }
+                ],
+                "iata": "TCG",
+                "km": 378,
+                "min": 60
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "MU",
+                        "name": "China Eastern Airlines"
+                    }
+                ],
+                "iata": "SHA",
+                "km": 3360,
+                "min": 300
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "G5",
+                        "name": "Gestair"
+                    }
+                ],
+                "iata": "KCA",
+                "km": 782,
+                "min": 90
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "EU",
+                        "name": "Chengdu Airlines"
+                    }
+                ],
+                "iata": "JBK",
+                "km": 414,
+                "min": 55
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "9C",
+                        "name": "Spring Airlines"
+                    },
+                    {
+                        "iata": "AQ",
+                        "name": "9 Air"
+                    }
+                ],
+                "iata": "LHW",
+                "km": 1784,
+                "min": 175
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "UQ",
+                        "name": "Urumqi Airlines"
+                    }
+                ],
+                "iata": "KJI",
+                "km": 96,
+                "min": 10
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "EU",
+                        "name": "Chengdu Airlines"
+                    }
+                ],
+                "iata": "KHG",
+                "km": 1331,
+                "min": 140
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "GJ",
+                        "name": "Loong Air"
+                    }
+                ],
+                "iata": "INC",
+                "km": 1815,
+                "min": 195
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "EU",
+                        "name": "Chengdu Airlines"
+                    }
+                ],
+                "iata": "HTN",
+                "km": 1366,
+                "min": 145
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "EU",
+                        "name": "Chengdu Airlines"
+                    }
+                ],
+                "iata": "ACF",
+                "km": 978,
+                "min": 130
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "CZ",
+                        "name": "China Southern Airlines"
+                    }
+                ],
+                "iata": "PVG",
+                "km": 3397,
+                "min": 310
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "CZ",
+                        "name": "China Southern Airlines"
+                    }
+                ],
+                "iata": "PKX",
+                "km": 2445,
+                "min": 225
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "CZ",
+                        "name": "China Southern Airlines"
+                    }
+                ],
+                "iata": "CAN",
+                "km": 3507,
+                "min": 315
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "UQ",
+                        "name": "Urumqi Airlines"
+                    }
+                ],
+                "iata": "IKT",
+                "km": 1266,
+                "min": 5
+            }
+        ],
+        "timezone": "Asia/Shanghai"
+    },
+    "AAX": {
+        "city_name": "Araxa",
+        "continent": "SA",
+        "country": "Brazil",
+        "country_code": "BR",
+        "display_name": "Araxa (AAX), Brazil",
+        "elevation": 3274,
+        "iata": "AAX",
+        "icao": "SBAX",
+        "latitude": "-19.568056",
+        "longitude": "-46.929167",
+        "name": "Araxa Airport",
+        "routes": [
+            {
+                "carriers": [
+                    {
+                        "iata": "AD",
+                        "name": "Azul"
+                    }
+                ],
+                "iata": "CNF",
+                "km": 311,
+                "min": 90
+            }
+        ],
+        "timezone": "America/Sao_Paulo"
+    },
+    "AAY": {
+        "city_name": "Al Ghaydah",
+        "continent": "AS",
+        "country": "Republic of Yemen",
+        "country_code": "YE",
+        "display_name": "Al Ghaydah (AAY), Republic of Yemen",
+        "elevation": 100,
+        "iata": "AAY",
+        "icao": "OYGD",
+        "latitude": "16.195959",
+        "longitude": "52.173255",
+        "name": "Al Ghaydah",
+        "routes": [
+            {
+                "carriers": [
+                    {
+                        "iata": "IY",
+                        "name": "Yemenia"
+                    }
+                ],
+                "iata": "ADE",
+                "km": 854,
+                "min": 90
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "IY",
+                        "name": "Yemenia"
+                    }
+                ],
+                "iata": "SCT",
+                "km": 436,
+                "min": 75
+            }
+        ],
+        "timezone": "Asia/Aden"
+    },
+    "ABA": {
+        "city_name": "Abakan",
+        "continent": "EU",
+        "country": "Russia",
+        "country_code": "RU",
+        "display_name": "Abakan (ABA), Russia",
+        "elevation": 831,
+        "iata": "ABA",
+        "icao": "UNAA",
+        "latitude": "53.740002",
+        "longitude": "91.385002",
+        "name": "Abakan Airport",
+        "routes": [
+            {
+                "carriers": [
+                    {
+                        "iata": "S7",
+                        "name": "S7 Airlines"
+                    }
+                ],
+                "iata": "OVB",
+                "km": 583,
+                "min": 78
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "SU",
+                        "name": "Aeroflot"
+                    }
+                ],
+                "iata": "SVO",
+                "km": 3386,
+                "min": 295
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "S7",
+                        "name": "S7 Airlines"
+                    }
+                ],
+                "iata": "DME",
+                "km": 3377,
+                "min": 295
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "Y7",
+                        "name": "NordStar"
+                    }
+                ],
+                "iata": "NSK",
+                "km": 1748,
+                "min": 170
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "Y7",
+                        "name": "NordStar"
+                    }
+                ],
+                "iata": "AER",
+                "km": 3868,
+                "min": 350
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "KV",
+                        "name": "KrasAvia"
+                    }
+                ],
+                "iata": "KJA",
+                "km": 280,
+                "min": 75
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "KV",
+                        "name": "KrasAvia"
+                    }
+                ],
+                "iata": "KCY",
+                "km": 281,
+                "min": 75
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "Y7",
+                        "name": "NordStar"
+                    }
+                ],
+                "iata": "LED",
+                "km": 3658,
+                "min": 315
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "WZ",
+                        "name": "Red Wings"
+                    }
+                ],
+                "iata": "SVX",
+                "km": 1956,
+                "min": 195
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "IO",
+                        "name": "IrAero"
+                    }
+                ],
+                "iata": "HTA",
+                "km": 1481,
+                "min": 150
+            }
+        ],
+        "timezone": "Asia/Krasnoyarsk"
+    },
+    "ABB": {
+        "city_name": "Asaba",
+        "continent": "AF",
+        "country": "Nigeria",
+        "country_code": "NG",
+        "display_name": "Asaba (ABB), Nigeria",
+        "elevation": 242,
+        "iata": "ABB",
+        "icao": "DNAS",
+        "latitude": "6.203055",
+        "longitude": "6.667222",
+        "name": "Asaba International Airport",
+        "routes": [
+            {
+                "carriers": [
+                    {
+                        "iata": "W3",
+                        "name": "Arik Air"
+                    },
+                    {
+                        "iata": "P4",
+                        "name": "Air Peace"
+                    },
+                    {
+                        "iata": "UN",
+                        "name": "United Nigeria Airlines"
+                    }
+                ],
+                "iata": "LOS",
+                "km": 372,
+                "min": 70
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "P4",
+                        "name": "Air Peace"
+                    },
+                    {
+                        "iata": "UN",
+                        "name": "United Nigeria Airlines"
+                    }
+                ],
+                "iata": "ABV",
+                "km": 316,
+                "min": 60
+            }
+        ],
+        "timezone": "Africa/Lagos"
+    },
+    "ABD": {
+        "city_name": "Abadan",
+        "continent": "AS",
+        "country": "Iran",
+        "country_code": "IR",
+        "display_name": "Abadan (ABD), Iran",
+        "elevation": 10,
+        "iata": "ABD",
+        "icao": "OIAA",
+        "latitude": "30.363905",
+        "longitude": "48.226598",
+        "name": "Abadan",
+        "routes": [
+            {
+                "carriers": [
+                    {
+                        "iata": "EP",
+                        "name": "Iran Aseman Airlines"
+                    },
+                    {
+                        "iata": "IR",
+                        "name": "Iran Air"
+                    },
+                    {
+                        "iata": "QB",
+                        "name": "Qeshm Air"
+                    }
+                ],
+                "iata": "THR",
+                "km": 657,
+                "min": 80
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "EP",
+                        "name": "Iran Aseman Airlines"
+                    },
+                    {
+                        "iata": "QB",
+                        "name": "Qeshm Air"
+                    },
+                    {
+                        "iata": "B9",
+                        "name": "Iran Airtour"
+                    },
+                    {
+                        "iata": "IS",
+                        "name": "AIS Airlines"
+                    }
+                ],
+                "iata": "MHD",
+                "km": 1245,
+                "min": 120
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "EP",
+                        "name": "Iran Aseman Airlines"
+                    }
+                ],
+                "iata": "IFN",
+                "km": 435,
+                "min": 55
+            }
+        ],
+        "timezone": "Asia/Tehran"
+    },
+    "ABE": {
+        "city_name": "Allentown",
+        "continent": "NA",
+        "country": "USA",
+        "country_code": "US",
+        "display_name": "Allentown (ABE), USA",
+        "elevation": 394,
+        "iata": "ABE",
+        "icao": "KABE",
+        "latitude": "40.651573",
+        "longitude": "-75.434366",
+        "name": "Lehigh Valley Intl",
+        "routes": [
+            {
+                "carriers": [
+                    {
+                        "iata": "UA",
+                        "name": "United Airlines"
+                    },
+                    {
+                        "iata": "AA",
+                        "name": "American Airlines"
+                    }
+                ],
+                "iata": "ORD",
+                "km": 1053,
+                "min": 144
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "DL",
+                        "name": "Delta Air Lines"
+                    }
+                ],
+                "iata": "ATL",
+                "km": 1115,
+                "min": 137
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "AA",
+                        "name": "American Airlines"
+                    }
+                ],
+                "iata": "CLT",
+                "km": 772,
+                "min": 112
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "G4",
+                        "name": "Allegiant Air"
+                    }
+                ],
+                "iata": "SFB",
+                "km": 1420,
+                "min": 146
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "G4",
+                        "name": "Allegiant Air"
+                    }
+                ],
+                "iata": "MYR",
+                "km": 832,
+                "min": 99
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "G4",
+                        "name": "Allegiant Air"
+                    }
+                ],
+                "iata": "PGD",
+                "km": 1638,
+                "min": 167
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "G4",
+                        "name": "Allegiant Air"
+                    }
+                ],
+                "iata": "PIE",
+                "km": 1561,
+                "min": 158
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "G4",
+                        "name": "Allegiant Air"
+                    }
+                ],
+                "iata": "BNA",
+                "km": 1101,
+                "min": 122
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "G4",
+                        "name": "Allegiant Air"
+                    }
+                ],
+                "iata": "DEN",
+                "km": 2477,
+                "min": 234
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "G4",
+                        "name": "Allegiant Air"
+                    }
+                ],
+                "iata": "FLL",
+                "km": 1674,
+                "min": 173
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "G4",
+                        "name": "Allegiant Air"
+                    }
+                ],
+                "iata": "MCO",
+                "km": 1457,
+                "min": 152
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "G4",
+                        "name": "Allegiant Air"
+                    }
+                ],
+                "iata": "MLB",
+                "km": 1471,
+                "min": 147
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "G4",
+                        "name": "Allegiant Air"
+                    }
+                ],
+                "iata": "RSW",
+                "km": 1671,
+                "min": 178
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "G4",
+                        "name": "Allegiant Air"
+                    }
+                ],
+                "iata": "SRQ",
+                "km": 1610,
+                "min": 159
+            }
+        ],
+        "timezone": "America/New_York"
+    },
+    "ABF": {
+        "city_name": "Abaiang",
+        "continent": "OC",
+        "country": "Kiribati",
+        "country_code": "KI",
+        "display_name": "Abaiang (ABF), Kiribati",
+        "elevation": 0,
+        "iata": "ABF",
+        "icao": "NGAB",
+        "latitude": "1.670833",
+        "longitude": "173.304167",
+        "name": "Abaiang Airport",
+        "routes": [
+            {
+                "carriers": [
+                    {
+                        "iata": "IK",
+                        "name": "Air Kiribati"
+                    }
+                ],
+                "iata": "TRW",
+                "km": 36,
+                "min": 15
+            }
+        ],
+        "timezone": "Pacific/Tarawa"
+    },
+    "ABI": {
+        "city_name": "Abilene",
+        "continent": "NA",
+        "country": "USA",
+        "country_code": "US",
+        "display_name": "Abilene (ABI), USA",
+        "elevation": 1791,
+        "iata": "ABI",
+        "icao": "KABI",
+        "latitude": "32.412843",
+        "longitude": "-99.680052",
+        "name": "Abilene Rgnl",
+        "routes": [
+            {
+                "carriers": [
+                    {
+                        "iata": "AA",
+                        "name": "American Airlines"
+                    }
+                ],
+                "iata": "DFW",
+                "km": 253,
+                "min": 66
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "UA",
+                        "name": "United Airlines"
+                    }
+                ],
+                "iata": "DEN",
+                "km": 939,
+                "min": 127
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "UA",
+                        "name": "United Airlines"
+                    }
+                ],
+                "iata": "IAH",
+                "km": 493,
+                "min": 90
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "AA",
+                        "name": "American Airlines"
+                    }
+                ],
+                "iata": "PHX",
+                "km": 1157,
+                "min": 129
+            }
+        ],
+        "timezone": "America/Chicago"
+    },
+    "ABJ": {
+        "city_name": "Abidjan",
+        "continent": "AF",
+        "country": "Cote d'Ivoire",
+        "country_code": "CI",
+        "display_name": "Abidjan (ABJ), Cote d'Ivoire",
+        "elevation": 20,
+        "iata": "ABJ",
+        "icao": "DIAP",
+        "latitude": "5.254879",
+        "longitude": "-3.933015",
+        "name": "Abidjan Felix Houphouet Boigny International",
+        "routes": [
+            {
+                "carriers": [
+                    {
+                        "iata": "2J",
+                        "name": "Air Burkina"
+                    },
+                    {
+                        "iata": "EK",
+                        "name": "Emirates"
+                    },
+                    {
+                        "iata": "HF",
+                        "name": "Air Cote DIvoire"
+                    },
+                    {
+                        "iata": "ME",
+                        "name": "Middle East Airlines"
+                    },
+                    {
+                        "iata": "SA",
+                        "name": "South African Airways"
+                    },
+                    {
+                        "iata": "SN",
+                        "name": "Brussels Airlines"
+                    },
+                    {
+                        "iata": "QR",
+                        "name": "Qatar Airways"
+                    }
+                ],
+                "iata": "ACC",
+                "km": 418,
+                "min": 65
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "AF",
+                        "name": "Air France"
+                    },
+                    {
+                        "iata": "HF",
+                        "name": "Air Cote DIvoire"
+                    }
+                ],
+                "iata": "CDG",
+                "km": 4887,
+                "min": 395
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "KQ",
+                        "name": "Kenya Airways"
+                    },
+                    {
+                        "iata": "HF",
+                        "name": "Air Cote DIvoire"
+                    },
+                    {
+                        "iata": "HC",
+                        "name": "Air Senegal"
+                    },
+                    {
+                        "iata": "L6",
+                        "name": "Mauritania Airlines"
+                    },
+                    {
+                        "iata": "P4",
+                        "name": "Air Peace"
+                    }
+                ],
+                "iata": "DSS",
+                "km": 1776,
+                "min": 170
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "2J",
+                        "name": "Air Burkina"
+                    },
+                    {
+                        "iata": "HF",
+                        "name": "Air Cote DIvoire"
+                    },
+                    {
+                        "iata": "SN",
+                        "name": "Brussels Airlines"
+                    },
+                    {
+                        "iata": "TU",
+                        "name": "Tunisair"
+                    },
+                    {
+                        "iata": "AH",
+                        "name": "Air Algerie"
+                    },
+                    {
+                        "iata": "HC",
+                        "name": "Air Senegal"
+                    }
+                ],
+                "iata": "OUA",
+                "km": 829,
+                "min": 95
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "HF",
+                        "name": "Air Cote DIvoire"
+                    },
+                    {
+                        "iata": "SN",
+                        "name": "Brussels Airlines"
+                    },
+                    {
+                        "iata": "HC",
+                        "name": "Air Senegal"
+                    }
+                ],
+                "iata": "COO",
+                "km": 710,
+                "min": 85
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "HF",
+                        "name": "Air Cote DIvoire"
+                    },
+                    {
+                        "iata": "KP",
+                        "name": "ASKY Airlines"
+                    },
+                    {
+                        "iata": "SN",
+                        "name": "Brussels Airlines"
+                    }
+                ],
+                "iata": "LFW",
+                "km": 582,
+                "min": 90
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "AT",
+                        "name": "Royal Air Maroc"
+                    },
+                    {
+                        "iata": "HF",
+                        "name": "Air Cote DIvoire"
+                    }
+                ],
+                "iata": "CMN",
+                "km": 3135,
+                "min": 260
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "HF",
+                        "name": "Air Cote DIvoire"
+                    },
+                    {
+                        "iata": "ME",
+                        "name": "Middle East Airlines"
+                    },
+                    {
+                        "iata": "P4",
+                        "name": "Air Peace"
+                    }
+                ],
+                "iata": "LOS",
+                "km": 816,
+                "min": 110
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "HF",
+                        "name": "Air Cote DIvoire"
+                    },
+                    {
+                        "iata": "TU",
+                        "name": "Tunisair"
+                    }
+                ],
+                "iata": "BKO",
+                "km": 918,
+                "min": 100
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "ET",
+                        "name": "Ethiopian Airlines"
+                    },
+                    {
+                        "iata": "HF",
+                        "name": "Air Cote DIvoire"
+                    },
+                    {
+                        "iata": "HC",
+                        "name": "Air Senegal"
+                    }
+                ],
+                "iata": "CKY",
+                "km": 1171,
+                "min": 110
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "ET",
+                        "name": "Ethiopian Airlines"
+                    }
+                ],
+                "iata": "ADD",
+                "km": 4735,
+                "min": 360
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "SS",
+                        "name": "Corsair International"
+                    }
+                ],
+                "iata": "ORY",
+                "km": 4855,
+                "min": 395
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "TK",
+                        "name": "Turkish Airlines"
+                    }
+                ],
+                "iata": "IST",
+                "km": 5143,
+                "min": 435
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "HF",
+                        "name": "Air Cote DIvoire"
+                    }
+                ],
+                "iata": "HGO",
+                "km": 491,
+                "min": 80
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "TU",
+                        "name": "Tunisair"
+                    }
+                ],
+                "iata": "TUN",
+                "km": 3784,
+                "min": 315
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "HF",
+                        "name": "Air Cote DIvoire"
+                    }
+                ],
+                "iata": "SPY",
+                "km": 307,
+                "min": 60
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "HF",
+                        "name": "Air Cote DIvoire"
+                    }
+                ],
+                "iata": "NSI",
+                "km": 1726,
+                "min": 160
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "HF",
+                        "name": "Air Cote DIvoire"
+                    },
+                    {
+                        "iata": "KQ",
+                        "name": "Kenya Airways"
+                    }
+                ],
+                "iata": "DLA",
+                "km": 1520,
+                "min": 150
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "HF",
+                        "name": "Air Cote DIvoire"
+                    }
+                ],
+                "iata": "ABV",
+                "km": 1304,
+                "min": 130
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "HF",
+                        "name": "Air Cote DIvoire"
+                    },
+                    {
+                        "iata": "TU",
+                        "name": "Tunisair"
+                    }
+                ],
+                "iata": "NIM",
+                "km": 1129,
+                "min": 150
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "KQ",
+                        "name": "Kenya Airways"
+                    }
+                ],
+                "iata": "NBO",
+                "km": 4600,
+                "min": 385
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "DT",
+                        "name": "TAAG"
+                    }
+                ],
+                "iata": "NBJ",
+                "km": 2498,
+                "min": 220
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "HF",
+                        "name": "Air Cote DIvoire"
+                    }
+                ],
+                "iata": "KEO",
+                "km": 620,
+                "min": 90
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "ET",
+                        "name": "Ethiopian Airlines"
+                    }
+                ],
+                "iata": "JFK",
+                "km": 7935,
+                "min": 630
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "HF",
+                        "name": "Air Cote DIvoire"
+                    }
+                ],
+                "iata": "BZV",
+                "km": 2378,
+                "min": 210
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "MS",
+                        "name": "EgyptAir"
+                    }
+                ],
+                "iata": "CAI",
+                "km": 4614,
+                "min": 380
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "HF",
+                        "name": "Air Cote DIvoire"
+                    }
+                ],
+                "iata": "LBV",
+                "km": 1575,
+                "min": 150
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "HF",
+                        "name": "Air Cote DIvoire"
+                    }
+                ],
+                "iata": "MJC",
+                "km": 462,
+                "min": 75
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "HF",
+                        "name": "Air Cote DIvoire"
+                    }
+                ],
+                "iata": "FIH",
+                "km": 2403,
+                "min": 210
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "2J",
+                        "name": "Air Burkina"
+                    }
+                ],
+                "iata": "BOY",
+                "km": 654,
+                "min": 75
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "ME",
+                        "name": "Middle East Airlines"
+                    },
+                    {
+                        "iata": "HF",
+                        "name": "Air Cote DIvoire"
+                    }
+                ],
+                "iata": "BEY",
+                "km": 5152,
+                "min": 445
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "HF",
+                        "name": "Air Cote DIvoire"
+                    }
+                ],
+                "iata": "PNR",
+                "km": 2081,
+                "min": 190
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "AH",
+                        "name": "Air Algerie"
+                    }
+                ],
+                "iata": "ALG",
+                "km": 3557,
+                "min": 330
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "QR",
+                        "name": "Qatar Airways"
+                    }
+                ],
+                "iata": "DOH",
+                "km": 6312,
+                "min": 465
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "HF",
+                        "name": "Air Cote DIvoire"
+                    }
+                ],
+                "iata": "BYK",
+                "km": 301,
+                "min": 60
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "SN",
+                        "name": "Brussels Airlines"
+                    }
+                ],
+                "iata": "BRU",
+                "km": 5119,
+                "min": 420
+            }
+        ],
+        "timezone": "Africa/Abidjan"
+    },
+    "ABK": {
+        "city_name": "Kabri Dar",
+        "continent": "AF",
+        "country": "Ethiopia",
+        "country_code": "ET",
+        "display_name": "Kabri Dar (ABK), Ethiopia",
+        "elevation": 1706,
+        "iata": "ABK",
+        "icao": "HAKD",
+        "latitude": "6.733207",
+        "longitude": "44.249676",
+        "name": "Kabri Dar",
+        "routes": [
+            {
+                "carriers": [
+                    {
+                        "iata": "ET",
+                        "name": "Ethiopian Airlines"
+                    }
+                ],
+                "iata": "JIJ",
+                "km": 333,
+                "min": 70
+            }
+        ],
+        "timezone": "Africa/Addis_Ababa"
+    },
+    "ABL": {
+        "city_name": "Ambler",
+        "continent": "NA",
+        "country": "USA",
+        "country_code": "US",
+        "display_name": "Ambler (ABL), USA",
+        "elevation": 289,
+        "iata": "ABL",
+        "icao": "PAFM",
+        "latitude": "67.0875",
+        "longitude": "-157.845833",
+        "name": "Ambler Airport",
+        "routes": [
+            {
+                "carriers": [
+                    {
+                        "iata": "8E",
+                        "name": "Easy Fly Express"
+                    }
+                ],
+                "iata": "OTZ",
+                "km": 208,
+                "min": 45
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "8E",
+                        "name": "Easy Fly Express"
+                    }
+                ],
+                "iata": "SHG",
+                "km": 37,
+                "min": 15
+            }
+        ],
+        "timezone": "America/Anchorage"
+    },
+    "ABM": {
+        "city_name": "Bamaga",
+        "continent": "OC",
+        "country": "Australia",
+        "country_code": "AU",
+        "display_name": "Bamaga (ABM), Australia",
+        "elevation": 63,
+        "iata": "ABM",
+        "icao": "YNPE",
+        "latitude": "-10.942619",
+        "longitude": "142.450334",
+        "name": "Bamaga",
+        "routes": [
+            {
+                "carriers": [
+                    {
+                        "iata": "QN",
+                        "name": "Skytrans"
+                    },
+                    {
+                        "iata": "W2",
+                        "name": "FlexFlight"
+                    }
+                ],
+                "iata": "CNS",
+                "km": 747,
+                "min": 120
+            }
+        ],
+        "timezone": "Australia/Brisbane"
+    },
+    "ABQ": {
+        "city_name": "Albuquerque",
+        "continent": "NA",
+        "country": "USA",
+        "country_code": "US",
+        "display_name": "Albuquerque (ABQ), USA",
+        "elevation": 5355,
+        "iata": "ABQ",
+        "icao": "KABQ",
+        "latitude": "35.049625",
+        "longitude": "-106.617193",
+        "name": "Albuquerque International Sunport",
+        "routes": [
+            {
+                "carriers": [
+                    {
+                        "iata": "UA",
+                        "name": "United Airlines"
+                    },
+                    {
+                        "iata": "WN",
+                        "name": "Southwest Airlines"
+                    }
+                ],
+                "iata": "DEN",
+                "km": 559,
+                "min": 85
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "AA",
+                        "name": "American Airlines"
+                    },
+                    {
+                        "iata": "WN",
+                        "name": "Southwest Airlines"
+                    }
+                ],
+                "iata": "PHX",
+                "km": 527,
+                "min": 82
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "AA",
+                        "name": "American Airlines"
+                    },
+                    {
+                        "iata": "DL",
+                        "name": "Delta Air Lines"
+                    },
+                    {
+                        "iata": "WN",
+                        "name": "Southwest Airlines"
+                    }
+                ],
+                "iata": "LAX",
+                "km": 1089,
+                "min": 134
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "AA",
+                        "name": "American Airlines"
+                    }
+                ],
+                "iata": "DFW",
+                "km": 916,
+                "min": 115
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "UA",
+                        "name": "United Airlines"
+                    }
+                ],
+                "iata": "IAH",
+                "km": 1198,
+                "min": 131
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "WN",
+                        "name": "Southwest Airlines"
+                    }
+                ],
+                "iata": "LAS",
+                "km": 781,
+                "min": 100
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "WN",
+                        "name": "Southwest Airlines"
+                    }
+                ],
+                "iata": "DAL",
+                "km": 935,
+                "min": 105
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "AA",
+                        "name": "American Airlines"
+                    },
+                    {
+                        "iata": "UA",
+                        "name": "United Airlines"
+                    }
+                ],
+                "iata": "ORD",
+                "km": 1798,
+                "min": 184
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "DL",
+                        "name": "Delta Air Lines"
+                    }
+                ],
+                "iata": "ATL",
+                "km": 2041,
+                "min": 185
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "DL",
+                        "name": "Delta Air Lines"
+                    }
+                ],
+                "iata": "SLC",
+                "km": 791,
+                "min": 108
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "UA",
+                        "name": "United Airlines"
+                    }
+                ],
+                "iata": "SFO",
+                "km": 1442,
+                "min": 158
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "WN",
+                        "name": "Southwest Airlines"
+                    }
+                ],
+                "iata": "HOU",
+                "km": 1222,
+                "min": 125
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "WN",
+                        "name": "Southwest Airlines"
+                    }
+                ],
+                "iata": "AUS",
+                "km": 996,
+                "min": 105
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "AN",
+                        "name": "Advanced Air"
+                    }
+                ],
+                "iata": "SVC",
+                "km": 303,
+                "min": 60
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "WN",
+                        "name": "Southwest Airlines"
+                    }
+                ],
+                "iata": "SAN",
+                "km": 1011,
+                "min": 110
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "AS",
+                        "name": "Alaska Airlines"
+                    },
+                    {
+                        "iata": "DL",
+                        "name": "Delta Air Lines"
+                    }
+                ],
+                "iata": "SEA",
+                "km": 1896,
+                "min": 196
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "UA",
+                        "name": "United Airlines"
+                    }
+                ],
+                "iata": "IAD",
+                "km": 2620,
+                "min": 224
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "WN",
+                        "name": "Southwest Airlines"
+                    }
+                ],
+                "iata": "BWI",
+                "km": 2688,
+                "min": 225
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "AS",
+                        "name": "Alaska Airlines"
+                    }
+                ],
+                "iata": "PDX",
+                "km": 1786,
+                "min": 181
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "LF",
+                        "name": "Contour Aviation"
+                    }
+                ],
+                "iata": "CNM",
+                "km": 371,
+                "min": 75
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "WN",
+                        "name": "Southwest Airlines"
+                    }
+                ],
+                "iata": "OAK",
+                "km": 1428,
+                "min": 145
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "DL",
+                        "name": "Delta Air Lines"
+                    },
+                    {
+                        "iata": "SY",
+                        "name": "Sun Country Airlines"
+                    }
+                ],
+                "iata": "MSP",
+                "km": 1578,
+                "min": 154
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "WN",
+                        "name": "Southwest Airlines"
+                    }
+                ],
+                "iata": "MDW",
+                "km": 1805,
+                "min": 160
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "B6",
+                        "name": "JetBlue Airways"
+                    }
+                ],
+                "iata": "JFK",
+                "km": 2937,
+                "min": 252
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "WN",
+                        "name": "Southwest Airlines"
+                    }
+                ],
+                "iata": "BUR",
+                "km": 1079,
+                "min": 125
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "AN",
+                        "name": "Advanced Air"
+                    }
+                ],
+                "iata": "LRU",
+                "km": 307,
+                "min": 66
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "AA",
+                        "name": "American Airlines"
+                    }
+                ],
+                "iata": "PHL",
+                "km": 2811,
+                "min": 243
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "AA",
+                        "name": "American Airlines"
+                    }
+                ],
+                "iata": "CLT",
+                "km": 2334,
+                "min": 218
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "WN",
+                        "name": "Southwest Airlines"
+                    }
+                ],
+                "iata": "MCO",
+                "km": 2499,
+                "min": 220
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "WN",
+                        "name": "Southwest Airlines"
+                    }
+                ],
+                "iata": "MCI",
+                "km": 1155,
+                "min": 115
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "WN",
+                        "name": "Southwest Airlines"
+                    }
+                ],
+                "iata": "SAT",
+                "km": 981,
+                "min": 105
+            },
+            {
+                "carriers": [
+                    {
+                        "iata": "WN",
+                        "name": "Southwest Airlines"
+                    }
+                ],
+                "iata": "BNA",
+                "km": 1808,
+                "min": 160
+            }
+        ],
+        "timezone": "America/Denver"
+    }}
