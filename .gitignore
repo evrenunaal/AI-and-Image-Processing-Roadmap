@@ -7,3 +7,5 @@ venv/
 
 # Python önbellek dosyaları
 __pycache__/
+
+.ipynb_checkpoints/
